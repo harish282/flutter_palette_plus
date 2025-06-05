@@ -10,7 +10,7 @@ environment:
   sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
-  color_models: ^1.2.1
+  color_models: ^2.0.0
   num_utilities: ^1.0.1
   unique_list: ^1.0.0
 
